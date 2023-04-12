@@ -15,6 +15,7 @@ import io.restassured.http.ContentType;
 
 public class GetAndPost_ex2 {
 
+	//first API test.
 	@Test
 	public void getUdersList() {
 		baseURI="https://reqres.in";
