@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-27T13:29:03 BST" name="Default suite" finished-at="2023-03-27T13:29:06 BST" duration-ms="2438">
+    <groups>
+    </groups>
+    <test started-at="2023-03-27T13:29:03 BST" name="Default test" finished-at="2023-03-27T13:29:06 BST" duration-ms="2438">
+      <class name="testscripts.GetAndPost_ex2">
+        <test-method signature="createUser()[pri:0, instance:testscripts.GetAndPost_ex2@3835c46]" started-at="2023-03-27T13:29:03 BST" name="createUser" finished-at="2023-03-27T13:29:06 BST" duration-ms="2412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+      </class> <!-- testscripts.GetAndPost_ex2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
